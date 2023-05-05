@@ -21,24 +21,31 @@ no.of digits: 3
  output=[1,2,4]
 
 *********medianoftwosortedarrays.py*****
+
 this program finds the median of two sorted lists/array of numbers. median of two sorted arrays Example 1: Input: nums1 = [1,3], nums2 = [2] Output: 2.00000 Explanation: merged array = [1,2,3] and median is 2. Example 2: Input: nums1 = [1,2], nums2 = [3,4] Output: 2.50000 Explanation: merged array = [1,2,3,4] and median is (2 + 3) / 2 = 2.5.
 
 ******palindrome.py*** 
+
 this program finds wheather given string is a palindrome or not palindrome Input: x = 121 Output: true Explanation: 121 reads as 121 from left to right and from right to left.
 
 ******palindromess.py***********
+
 this program finds the palindromes in the given list and prints palindromes position in given list Input: words = ["abcd","dcba","lls","s","sssll"] Output: [[0,1],[1,0],[3,2],[2,4]] Explanation: The palindromes are ["abcddcba","dcbaabcd","slls","llssssll"] 
 
 ****pascaltriangle.py******
+
  this program prints the pascal triangle up to the entered number of rows.
  
 ******phonenumbers.py****
+
 this program basically concatenates the charaters present at given numbers in a key pad phone and gives output as list inear combination of a phone number Example 1: Input: digits = "23" Output: ["ad","ae","af","bd","be","bf","cd","ce","cf"] Example 2: Input: digits = "" Output: [] Example 3: Input: digits = "2" Output: ["a","b","c"]
 
 ******primenumber.py*******
+
 this program prints wheather entered number is prime or not.
 
 ******threenumbersum.py********
+
 this program checks wheather the sum of three elements in the list is equal to key or not.
 
 #################### ABOUT GITHUB ##########################
