@@ -1,4 +1,25 @@
 # pythooonassignment 
+##about questions in my assignment
+*.      Fibonacci.py
+
+ in this program the Fibonacci series is printed upto n th term that we entered as input
+
+*.     Focwdinstring.py
+
+In this program we enter a string as input it gives number of words,ovals,consonents and digits in a string.
+
+Ex: seshareddy123
+
+no. of words: 1
+
+no. of ovals: 3
+
+no. of consonents: 7
+
+no.of digits: 3
+
+
+*.    Listnumberpusq.py
 
 #################### ABOUT GITHUB ##########################
 
