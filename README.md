@@ -20,7 +20,17 @@ no.of digits: 3
 
 
 *.    Listnumberpusq.py
+ this program converts list elements into a number and adds 1 to the number again convert number into elements of a list.
+ ex: innput=[1,2,3]
+output=[1,2,4]
+*.   medianoftwosortedarrays this program finds the median of two sorted lists/array of numbers. median of two sorted arrays Example 1: Input: nums1 = [1,3], nums2 = [2] Output: 2.00000 Explanation: merged array = [1,2,3] and median is 2. Example 2: Input: nums1 = [1,2], nums2 = [3,4] Output: 2.50000 Explanation: merged array = [1,2,3,4] and median is (2 + 3) / 2 = 2.5.
 
+*******palindrome.py*********** this program finds wheather given string is a palindrome or not palindrome Input: x = 121 Output: true Explanation: 121 reads as 121 from left to right and from right to left.
+
+******palindromess.py***********
+
+
+this program finds the palindromes in the given list and prints palindromes position in given list Input: words = ["abcd","dcba","lls","s","sssll"] Output: [[0,1],[1,0],[3,2],[2,4]] Explanation: The palindromes are ["abcddcba","dcbaabcd","slls","llssssll"] 
 #################### ABOUT GITHUB ##########################
 
 ************** What is github & git ? *****************
