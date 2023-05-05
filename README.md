@@ -1,10 +1,10 @@
 # pythooonassignment 
 ##about questions in my assignment
-*.      Fibonacci.py
+******Fibonacci.py*******
 
  in this program the Fibonacci series is printed upto n th term that we entered as input
 
-*.     Focwdinstring.py
+********Focwdinstring.py****
 
 In this program we enter a string as input it gives number of words,ovals,consonents and digits in a string.
 
@@ -19,18 +19,22 @@ no. of consonents: 7
 no.of digits: 3
 
 
-*.    Listnumberpusq.py
+******listnumberpusq.py***
  this program converts list elements into a number and adds 1 to the number again convert number into elements of a list.
  ex: innput=[1,2,3]
 output=[1,2,4]
-*.   medianoftwosortedarrays this program finds the median of two sorted lists/array of numbers. median of two sorted arrays Example 1: Input: nums1 = [1,3], nums2 = [2] Output: 2.00000 Explanation: merged array = [1,2,3] and median is 2. Example 2: Input: nums1 = [1,2], nums2 = [3,4] Output: 2.50000 Explanation: merged array = [1,2,3,4] and median is (2 + 3) / 2 = 2.5.
+*********medianoftwosortedarrays.py***** this program finds the median of two sorted lists/array of numbers. median of two sorted arrays Example 1: Input: nums1 = [1,3], nums2 = [2] Output: 2.00000 Explanation: merged array = [1,2,3] and median is 2. Example 2: Input: nums1 = [1,2], nums2 = [3,4] Output: 2.50000 Explanation: merged array = [1,2,3,4] and median is (2 + 3) / 2 = 2.5.
 
-*******palindrome.py*********** this program finds wheather given string is a palindrome or not palindrome Input: x = 121 Output: true Explanation: 121 reads as 121 from left to right and from right to left.
+******palindrome.py*** this program finds wheather given string is a palindrome or not palindrome Input: x = 121 Output: true Explanation: 121 reads as 121 from left to right and from right to left.
 
 ******palindromess.py***********
 
 
 this program finds the palindromes in the given list and prints palindromes position in given list Input: words = ["abcd","dcba","lls","s","sssll"] Output: [[0,1],[1,0],[3,2],[2,4]] Explanation: The palindromes are ["abcddcba","dcbaabcd","slls","llssssll"] 
+****pascaltriangle.py******
+ this program prints the pascal triangle up to the entered number of rows.
+******phonenumbers.py**** this program basically concatenates the charaters present at given numbers in a key pad phone and gives output as list inear combination of a phone number Example 1: Input: digits = "23" Output: ["ad","ae","af","bd","be","bf","cd","ce","cf"] Example 2: Input: digits = "" Output: [] Example 3: Input: digits = "2" Output: ["a","b","c"]
+******primenumber.py*******
 #################### ABOUT GITHUB ##########################
 
 ************** What is github & git ? *****************
@@ -46,6 +50,7 @@ Before using Git, it is important to know why we need it. Git makes it easy to
 
  contribute to open source projects. Nearly every open-source project uses GitHub 
  to manage their documentation. By using GitHub, you make it easier to get excellent documentation. Their help section and guides have integration with Git.
+
 
 ************** who uses the github ? ******************
 
