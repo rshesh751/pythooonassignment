@@ -2,7 +2,7 @@
 ##about questions in my assignment
 ******Fibonacci.py*******
 
- in this program the Fibonacci series is printed upto n th term that we entered as input
+in this program the Fibnacci series is printed upto n th term that we entered as input
 
 ********Focwdinstring.py****
 
@@ -35,6 +35,10 @@ this program finds the palindromes in the given list and prints palindromes posi
  this program prints the pascal triangle up to the entered number of rows.
 ******phonenumbers.py**** this program basically concatenates the charaters present at given numbers in a key pad phone and gives output as list inear combination of a phone number Example 1: Input: digits = "23" Output: ["ad","ae","af","bd","be","bf","cd","ce","cf"] Example 2: Input: digits = "" Output: [] Example 3: Input: digits = "2" Output: ["a","b","c"]
 ******primenumber.py*******
+this program prints wheather entered number is prime or not.
+******threenumbersum.py********
+this program checks wheather the sum of three elements in the list is equal to key or not.
+
 #################### ABOUT GITHUB ##########################
 
 ************** What is github & git ? *****************
